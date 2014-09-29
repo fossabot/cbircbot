@@ -1,1 +1,0 @@
-from minicbircbot.packages.irc.ircclient import *

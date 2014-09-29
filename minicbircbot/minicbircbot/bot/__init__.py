@@ -1,1 +1,0 @@
-from minicbircbot.bot import *
