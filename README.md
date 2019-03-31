@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fryonagana%2Fcbircbot.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fryonagana%2Fcbircbot?ref=badge_shield)
+
 cbIRCBOT 1.1
 ========
 
@@ -59,3 +61,7 @@ cbIRCBot Core only uses colorama to make errors and warnings more visible
 
 
 If you dont want to deal with dependencies just disable the module in config.json
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fryonagana%2Fcbircbot.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fryonagana%2Fcbircbot?ref=badge_large)
